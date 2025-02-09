@@ -1,9 +1,10 @@
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Luck Media - Fakultas Teknik Universitas Gadjah Mada">
+    <meta name="description" content="Luck Media - platform Informasi Terkini">
     <meta name="keywords" content="berita indonesia, trending news indonesia, portal berita, informasi digital, berita politik">
     <meta name="author" content="Luck Media">
     <title>Luck Media</title>
@@ -125,7 +126,7 @@
             <h2>Hubungi Kami</h2>
             <p>Alamat: Gajahmada, Jakarta Utara</p>
             <p>Email: <a href="mailto:sonpramui@gmail.com" style="color: #ffcc00;">sonpramui@gmail.com</a></p>
-            <p>Telepon: <a href="tel:+6289898990234" style="color: #ffcc00;">+62 8989 8990 234</a></p>
+            <p>Telepon: <a href="tel:+6289898990888" style="color: #ffcc00;">+62 8989 8990 888</a></p>
         </div>
         
     </div>
